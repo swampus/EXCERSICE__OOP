@@ -1,0 +1,18 @@
+0. What is OOP ? What is 3 Basic concepts of OOP ?
+1. From what version java become OOP language ?
+2. What is difference between Class, Object and instance ?
+3. What class do any java class extends ?
+4. What is difference between function and method ?
+5. How many class`es can java class extend ?
+6. What is public, private, protected ? What is difference ? To what OOP concept it belongs ?
+7. What is difference between Override and Overload ?
+8. What is difference between abstract class and interface (Java 1.8) ?
+9. What is difference between equals and == ?
+10. What is difference between == and === ?
+11. Why we need setters and getters ?
+12. What is difference between Trait and Interface ?
+13. What final do ?
+14. Why we need interfaces and abstract class in Java ?
+15. What is super ?
+
+

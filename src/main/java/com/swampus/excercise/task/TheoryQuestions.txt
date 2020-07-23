@@ -9,10 +9,12 @@
 8. What is difference between abstract class and interface (Java 1.8) ?
 9. What is difference between equals and == ?
 10. What is difference between == and === ?
-11. Why we need setters and getters ?
-12. What is difference between Trait and Interface ?
-13. What final do ?
-14. Why we need interfaces and abstract class in Java ?
-15. What is super ?
+11. What is difference between Trait and Interface ?
+12. What final do ? Can final class be abstract ?
+13. Why we need interfaces and abstract class in Java ?
+14. What is super ?
+15. Why we need setters and getters ?
+
+
 
 
